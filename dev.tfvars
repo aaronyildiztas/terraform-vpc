@@ -1,4 +1,4 @@
-s3_bucket = "aaronyildiztas-jenkins-terraform-evolvecybertraining"
+s3_bucket = "aaronyildiztas-bucket"
 s3_folder_project = "terraform_vpc"
 s3_folder_region = "us-east-1"
 s3_folder_type = "class"
